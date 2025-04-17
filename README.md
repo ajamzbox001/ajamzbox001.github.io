@@ -2,4 +2,4 @@
 <p>Get start to Deploy a Website with GitHub.</p>
 <ul>
   <li>Understanding about Navigation.</li>
-</ul>  
+</ul>
